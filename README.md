@@ -1,4 +1,4 @@
-#  pouch-replicate-webrtc
+#  rtcstream
 
 A minimalist stream implementation for a WebRTC DataChannel.
 
