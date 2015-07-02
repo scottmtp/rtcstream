@@ -2,6 +2,10 @@
   "name": "rtcstream",
   "description": "Minimalist stream implementation for a WebRTC DataChannel",
   "homepage": "https://github.com/scottmtp/rtcstream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottmtp/rtcstream.git"
+  },
   "version": "0.0.1",
   "license": "MIT",
   "keywords": [
