@@ -14,7 +14,8 @@
     "stream"
   ],
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "coverage": "istanbul cover _mocha -- test/ -R spec"
   },
   "dependencies": {
     "debug": "^2.2.0",
